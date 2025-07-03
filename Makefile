@@ -1,3 +1,5 @@
+# Copyright (C) 2025 Florent Monnier
+# SPDX-License-Identifier: Libpng
 all: calls
 extract: extract.mk
 	$(MAKE) -f $<

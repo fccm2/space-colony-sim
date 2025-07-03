@@ -1,3 +1,5 @@
+(* Copyright (C) 2025 Florent Monnier *)
+(* SPDX-License-Identifier: Libpng *)
 
 let check_exists fn =
   if not (Sys.file_exists fn) then
