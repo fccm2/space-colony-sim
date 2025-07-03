@@ -1,0 +1,10 @@
+To the extent permitted by law, and to the extent permitted by
+the terms of use of the "Firefly" tool, you can use, study, modify
+and redistribute these graphics, along the license approuved by
+the fsf, or the osi-initiative of your choice.
+
+Copyright/Attribution Notice:
+Buch, RubberDuck, Adobe's Firefly, Florent Monnier
+
+Read the file "DETAILS.md", for more details.
+
