@@ -38,7 +38,8 @@ let read_lines fn =
   aux []
 
 let suff i =
-  char_of_int ((int_of_char 'a') + i)
+  ("abcdefghijklmnopqrstuvwxyz" ^
+   "ABCDEFGHIJKLMNOPQRSTUVWXYZ").[i]
 
 let crop_area s =
   Scanf.sscanf s "[x:%d; y:%d; w:%d; h:%d]" (fun x y w h -> (x, y, w, h))
